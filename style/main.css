@@ -154,7 +154,7 @@ button.midi-button {
 	border-radius: 12px;
 	height: 28px;
 	outline: none;
-	border: 2px solid red;
+	border: 2px solid #1f5210;
 	background-color: #ccffbf;
 	color: #1f5210;
 	font-size: 1.1em;
