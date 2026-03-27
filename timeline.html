@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Piano Timeline</title>
+		<link rel="stylesheet" href="./style/main.css" />
+		<link rel="stylesheet" href="./style/pianoVisualizer.css" />
+		<link rel="icon" href="favicon.ico" type="image/x-icon" />
+	</head>
+	<body>
+		<header class="page-header"></header>
+		<div class="top-bar">
+			<audio class="top-player" controls="true"></audio>
+			<span class="top-bar-title"></span>
+			<input type="text" id="search-textbox" placeholder="Search..." />
+		</div>
+		<div class="midi-visualizer-container">
+			<div class="midi-visualizer">
+				<div class="visualizer-wrapper">
+					<canvas id="pianoCanvas"></canvas>
+					<div id="visualizer-info"></div>
+					<div id="visualizer-volume">
+						<div class="visualizer-volume-icon"></div>
+						<input
+							type="range"
+							min="0"
+							max="1"
+							step="0.01"
+							class="volume-slider"
+						/>
+					</div>
+					<div id="visualizer-duration">
+						<span class="visualizer-duration-elapsed"></span>
+						/
+						<span class="visualizer-duration-total"></span>
+					</div>
+					<div id="visualizer-close-button"></div>
+				</div>
+			</div>
+		</div>
+
+		<script src="scripts/midiParser.js"></script>
+		<script src="scripts/virtualPianoData.js"></script>
+		<script src="scripts/virtualKeyboard.js"></script>
+		<script src="scripts/midiVisualizer.js"></script>
+		<div class="timeline"></div>
+		<script src="scripts/timeline.js"></script>
+	</body>
+</html>
