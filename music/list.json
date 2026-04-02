@@ -1,6 +1,32 @@
 {
 	"data": [
 		{
+			"date": "01.04.2026",
+			"artist": "Chopin",
+			"title": "Nocturne Op. 27 No. 2 in Db Major",
+			"extra-info": "",
+			"performance-number": "3",
+			"file-name": "01.04.2026 - Chopin - Nocturne Op. 27 No. 2 in Db Major - 3.mp3",
+			"midi-file-name": "01.04.2026 - Chopin - Nocturne Op. 27 No. 2 in Db Major - 3.mid",
+			"duration": "70.92",
+			"sound-start": "0.70",
+			"total-performances": "3",
+			"ID": "254f6b7b998428641f11e9a0cbc5dfb5"
+		},
+		{
+			"date": "29.03.2026",
+			"artist": "Final Fantasy VII Soundtrack",
+			"title": "Tifa's Theme",
+			"extra-info": "",
+			"performance-number": "2",
+			"file-name": "29.03.2026 - Final Fantasy VII Soundtrack - Tifa's Theme - 2.mp3",
+			"midi-file-name": "29.03.2026 - Final Fantasy VII Soundtrack - Tifa's Theme - 2.mid",
+			"duration": "100.44",
+			"sound-start": "3.94",
+			"total-performances": "2",
+			"ID": "b68e327ae6ee82532ef9d293d07db353"
+		},
+		{
 			"date": "27.03.2026",
 			"artist": "Final Fantasy VII Soundtrack",
 			"title": "Tifa's Theme",
@@ -10,7 +36,7 @@
 			"midi-file-name": "27.03.2026 - Final Fantasy VII Soundtrack - Tifa's Theme - 1.mid",
 			"duration": "64.99",
 			"sound-start": "2.50",
-			"total-performances": "1",
+			"total-performances": "2",
 			"ID": "995f8a9a158d3b560271d6db98e13e01"
 		},
 		{
@@ -23,7 +49,7 @@
 			"midi-file-name": "15.03.2026 - Chopin - Nocturne Op. 27 No. 2 in Db Major - 2.mid",
 			"duration": "74.63",
 			"sound-start": "1.26",
-			"total-performances": "2",
+			"total-performances": "3",
 			"ID": "1d101d3b8163c9ab2252651925a51089"
 		},
 		{
@@ -36,7 +62,7 @@
 			"midi-file-name": "12.03.2026 - Chopin - Nocturne Op. 27 No. 2 in Db Major - 1.mid",
 			"duration": "35.86",
 			"sound-start": "1.19",
-			"total-performances": "2",
+			"total-performances": "3",
 			"ID": "a4192f98ded06bef3bec90c10c206c43"
 		},
 		{

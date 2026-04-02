@@ -151,7 +151,6 @@ async function refreshTimeline() {
 	});
 }
 
-// Converts "03.12.2024" → "December 3, 2024"
 function formatDate(dateStr) {
 	const [day, month, year] = dateStr.split(".").map(Number);
 	const dateObj = new Date(year, month - 1, day);
