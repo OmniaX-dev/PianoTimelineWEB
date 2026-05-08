@@ -1,6 +1,110 @@
 {
 	"data": [
 		{
+			"date": "06.05.2026",
+			"artist": "Chopin",
+			"title": "Nocturne No. 21 in Cm",
+			"extra-info": "",
+			"performance-number": "1",
+			"file-name": "06.05.2026 - Chopin - Nocturne No. 21 in Cm - 1.mp3",
+			"midi-file-name": "06.05.2026 - Chopin - Nocturne No. 21 in Cm - 1.mid",
+			"duration": "47.66",
+			"sound-start": "0.84",
+			"total-performances": "1",
+			"ID": "dca478b81ab049be05f3db5061eb72e4"
+		},
+		{
+			"date": "01.05.2026",
+			"artist": "Debussy",
+			"title": "Claire de lune",
+			"extra-info": "",
+			"performance-number": "8",
+			"file-name": "01.05.2026 - Debussy - Claire de lune - 8.mp3",
+			"midi-file-name": "01.05.2026 - Debussy - Claire de lune - 8.mid",
+			"duration": "144.99",
+			"sound-start": "0.01",
+			"total-performances": "8",
+			"ID": "dad04415a79337935422c67f05bab619"
+		},
+		{
+			"date": "30.04.2026",
+			"artist": "Debussy",
+			"title": "Claire de lune",
+			"extra-info": "",
+			"performance-number": "7",
+			"file-name": "30.04.2026 - Debussy - Claire de lune - 7.mp3",
+			"midi-file-name": "30.04.2026 - Debussy - Claire de lune - 7.mid",
+			"duration": "78.04",
+			"sound-start": "2.99",
+			"total-performances": "8",
+			"ID": "aedd52cd2cb19ce23a75bae045f74978"
+		},
+		{
+			"date": "29.04.2026",
+			"artist": "Debussy",
+			"title": "Claire de lune",
+			"extra-info": "",
+			"performance-number": "6",
+			"file-name": "29.04.2026 - Debussy - Claire de lune - 6.mp3",
+			"midi-file-name": "29.04.2026 - Debussy - Claire de lune - 6.mid",
+			"duration": "113.67",
+			"sound-start": "0.81",
+			"total-performances": "8",
+			"ID": "e82e5cea4f1ea75d628c5b811638094e"
+		},
+		{
+			"date": "26.04.2026",
+			"artist": "Chopin",
+			"title": "Nocturne Op. 15 No. 2 in F#",
+			"extra-info": "",
+			"performance-number": "3",
+			"file-name": "26.04.2026 - Chopin - Nocturne Op. 15 No. 2 in F# - 3.mp3",
+			"midi-file-name": "26.04.2026 - Chopin - Nocturne Op. 15 No. 2 in F# - 3.mid",
+			"duration": "85.45",
+			"sound-start": "0.62",
+			"total-performances": "3",
+			"ID": "160079195cbaba0ba94da580029a99d9"
+		},
+		{
+			"date": "20.04.2026",
+			"artist": "Chopin",
+			"title": "Nocturne Op. 15 No. 2 in F#",
+			"extra-info": "",
+			"performance-number": "2",
+			"file-name": "20.04.2026 - Chopin - Nocturne Op. 15 No. 2 in F# - 2.mp3",
+			"midi-file-name": "20.04.2026 - Chopin - Nocturne Op. 15 No. 2 in F# - 2.mid",
+			"duration": "80.79",
+			"sound-start": "1.18",
+			"total-performances": "3",
+			"ID": "831a4c39f2feced613cd2e5615dd6d06"
+		},
+		{
+			"date": "15.04.2026",
+			"artist": "Chopin",
+			"title": "Nocturne Op. 15 No. 2 in F#",
+			"extra-info": "",
+			"performance-number": "1",
+			"file-name": "15.04.2026 - Chopin - Nocturne Op. 15 No. 2 in F# - 1.mp3",
+			"midi-file-name": "15.04.2026 - Chopin - Nocturne Op. 15 No. 2 in F# - 1.mid",
+			"duration": "70.34",
+			"sound-start": "0.71",
+			"total-performances": "3",
+			"ID": "0455c5037ded46e070c36dd19c72efa5"
+		},
+		{
+			"date": "09.04.2026",
+			"artist": "Chopin",
+			"title": "Waltz Op. 69 No. 1 in Ab Major",
+			"extra-info": "",
+			"performance-number": "3",
+			"file-name": "09.04.2026 - Chopin - Waltz Op. 69 No. 1 in Ab Major - 3.mp3",
+			"midi-file-name": "09.04.2026 - Chopin - Waltz Op. 69 No. 1 in Ab Major - 3.mid",
+			"duration": "258.50",
+			"sound-start": "0.54",
+			"total-performances": "3",
+			"ID": "57e39e191eea1f4dadc7092b2a38863f"
+		},
+		{
 			"date": "01.04.2026",
 			"artist": "Chopin",
 			"title": "Nocturne Op. 27 No. 2 in Db Major",
@@ -595,7 +699,7 @@
 			"midi-file-name": "",
 			"duration": "83.91",
 			"sound-start": "1.12",
-			"total-performances": "2",
+			"total-performances": "3",
 			"ID": "b5e9442d0784ededf6f78ae9c2f0d69d"
 		},
 		{
@@ -608,7 +712,7 @@
 			"midi-file-name": "",
 			"duration": "42.04",
 			"sound-start": "0.15",
-			"total-performances": "2",
+			"total-performances": "3",
 			"ID": "78a49518ec4c3db212af2401191aa661"
 		},
 		{
@@ -985,7 +1089,7 @@
 			"midi-file-name": "",
 			"duration": "83.99",
 			"sound-start": "1.82",
-			"total-performances": "5",
+			"total-performances": "8",
 			"ID": "ff42a78a845b8d5a4b6569c7aaec7d61"
 		},
 		{
@@ -1037,7 +1141,7 @@
 			"midi-file-name": "25.01.2025 - Debussy - Claire de lune - 1.mid",
 			"duration": "36.59",
 			"sound-start": "1.67",
-			"total-performances": "5",
+			"total-performances": "8",
 			"ID": "076a529d9264bd934e91d5aeb94fbebb"
 		},
 		{
@@ -1050,7 +1154,7 @@
 			"midi-file-name": "25.01.2025 - Debussy - Claire de lune - 2.mid",
 			"duration": "66.04",
 			"sound-start": "2.87",
-			"total-performances": "5",
+			"total-performances": "8",
 			"ID": "9a3e00e3494dda1695cc0bd9fe9589f8"
 		},
 		{
@@ -1063,7 +1167,7 @@
 			"midi-file-name": "",
 			"duration": "104.97",
 			"sound-start": "2.87",
-			"total-performances": "5",
+			"total-performances": "8",
 			"ID": "a49b19b55022711d4ff4a2221e6e23b9"
 		},
 		{
@@ -1076,7 +1180,7 @@
 			"midi-file-name": "",
 			"duration": "119.94",
 			"sound-start": "3.95",
-			"total-performances": "5",
+			"total-performances": "8",
 			"ID": "eae7e09fac5e343f78372b1ea59cb1bb"
 		},
 		{
