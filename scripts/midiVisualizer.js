@@ -357,14 +357,26 @@ async function loadRecording(jsonRecord) {
 		const margin = 50;
 		canvas.width = window.innerWidth - margin * 2;
 		canvas.height = window.innerHeight - margin * 2;
-		const w = canvas.width + "px";
 		visualizer_wrapper.style.width = canvas.width + "px";
 		visualizer_wrapper.style.height = canvas.height + "px";
 		vpd.update_scale(canvas.width, canvas.height);
+
+		// Explicitly clear the canvas — defensive, since setting width/height
+		// already clears it, but this also covers the case where neither
+		// dimension actually changed (e.g. an irrelevant resize event).
+		ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+		// Rebuild graphics for every currently-active falling note so their
+		// widths/heights/x positions match the new scale. Without this, notes
+		// already on screen keep their old dimensions until they're recycled.
+		for (const note of visualizer.active_falling_notes) {
+			visualizer.spawn_note_node(note);
+		}
 	}
 
 	window.addEventListener("resize", resizeCanvas);
 	resizeCanvas();
+	visualizer._resize_handler = resizeCanvas;
 
 	// Render loop
 	function loop() {

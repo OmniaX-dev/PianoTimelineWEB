@@ -230,6 +230,9 @@ function closeVisualization() {
 	player.src = "";
 	container.classList.remove("active");
 	if (visualizer) {
+		if (visualizer._resize_handler) {
+			window.removeEventListener("resize", visualizer._resize_handler);
+		}
 		visualizer.stop();
 		visualizer = null;
 	}
