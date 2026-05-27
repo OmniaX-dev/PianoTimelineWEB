@@ -1,6 +1,19 @@
 {
 	"data": [
 		{
+			"date": "27.05.2026",
+			"artist": "Chopin",
+			"title": "Nocturne Op. 72 No. 1 in E Minor",
+			"extra-info": "",
+			"performance-number": "2",
+			"file-name": "27.05.2026 - Chopin - Nocturne Op. 72 No. 1 in E Minor - 2.mp3",
+			"midi-file-name": "27.05.2026 - Chopin - Nocturne Op. 72 No. 1 in E Minor - 2.mid",
+			"duration": "69.74",
+			"sound-start": "0.91",
+			"total-performances": "2",
+			"ID": "ca66cf91033c0ddd89348abac7c0b457"
+		},
+		{
 			"date": "26.05.2026",
 			"artist": "Chopin",
 			"title": "Nocturne Op. 72 No. 1 in E Minor",
@@ -10,7 +23,7 @@
 			"midi-file-name": "26.05.2026 - Chopin - Nocturne Op. 72 No. 1 in E Minor - 1.mid",
 			"duration": "45.20",
 			"sound-start": "0.66",
-			"total-performances": "1",
+			"total-performances": "2",
 			"ID": "2aef68db1405ee89fa7f36ac70af4a0f"
 		},
 		{
