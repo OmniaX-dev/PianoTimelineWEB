@@ -197,18 +197,11 @@ function preparePlayback() {
 	volume_slider.addEventListener("input", () => {
 		player.volume = parseFloat(volume_slider.value);
 	});
+
 	document.querySelectorAll(".midi-button").forEach((button) => {
 		button.addEventListener("click", async (event) => {
-			const clickedButton = event.currentTarget;
 			const rec = JSON.parse(button.dataset.recording);
-			const container = document.querySelector(".midi-visualizer-container");
-			if (container.classList.contains("active")) return;
-			container.classList.add("active");
-			visualizer = await loadRecording(rec);
-			entries.forEach((entry) => {
-				entry.classList.remove("playing");
-				top_bar_title.textContent = "";
-			});
+			await openVisualizationFor(rec, entries, top_bar_title);
 		});
 	});
 }
@@ -240,6 +233,57 @@ function closeVisualization() {
 		visualizer.stop();
 		visualizer = null;
 	}
+	// Clear the hash without scrolling/jumping
+	if (history.replaceState) {
+		history.replaceState(null, "", window.location.pathname + window.location.search);
+	} else {
+		location.hash = "";
+	}
+}
+
+async function openVisualizationFor(rec, entries, top_bar_title) {
+	const container = document.querySelector(".midi-visualizer-container");
+	if (container.classList.contains("active")) return;
+	container.classList.add("active");
+	// Update the URL hash so the view is shareable
+	if (history.replaceState) {
+		history.replaceState(null, "", "#midi=" + rec.ID);
+	} else {
+		location.hash = "midi=" + rec.ID;
+	}
+	visualizer = await loadRecording(rec);
+	if (entries) {
+		entries.forEach((entry) => {
+			entry.classList.remove("playing");
+		});
+	}
+	if (top_bar_title) top_bar_title.textContent = "";
+}
+
+async function handleMidiHash() {
+	const match = window.location.hash.match(/^#midi=([a-zA-Z0-9]+)/);
+	if (!match) return;
+	const targetID = match[1];
+
+	// Fetch list.json to find the matching recording
+	try {
+		const response = await fetch("music/list.json");
+		const json = await response.json();
+		const rec = json.data.find((r) => r.ID === targetID);
+		if (!rec) {
+			console.warn("No recording found for ID:", targetID);
+			return;
+		}
+		if (!rec["midi-file-name"] || rec["midi-file-name"].trim() === "") {
+			console.warn("Recording has no MIDI file:", targetID);
+			return;
+		}
+		const entries = document.querySelectorAll("span.play-button");
+		const top_bar_title = document.querySelectorAll("span.top-bar-title")[0];
+		await openVisualizationFor(rec, entries, top_bar_title);
+	} catch (err) {
+		console.error("Error handling MIDI hash:", err);
+	}
 }
 
 loadTimeline(true).then(() => {
@@ -258,5 +302,26 @@ loadTimeline(true).then(() => {
 	});
 	document.getElementById("visualizer-close-button").addEventListener("click", () => {
 		closeVisualization();
+	});
+
+	// Check the hash on initial load
+	handleMidiHash();
+
+	// Also react if the user changes the hash manually (or via back/forward)
+	window.addEventListener("hashchange", () => {
+		// If a visualizer is already open and the hash changed/cleared, close it first
+		const container = document.querySelector(".midi-visualizer-container");
+		if (container.classList.contains("active")) {
+			closeVisualization();
+		}
+		handleMidiHash();
+	});
+
+	document.querySelector(".midi-visualizer").addEventListener("click", (event) => {
+		// Only close if the click landed directly on the backdrop,
+		// not on the canvas, controls, or anything inside the wrapper
+		if (event.target.classList.contains("midi-visualizer")) {
+			closeVisualization();
+		}
 	});
 });
