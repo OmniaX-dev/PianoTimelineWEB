@@ -1,6 +1,19 @@
 {
 	"data": [
 		{
+			"date": "02.06.2026",
+			"artist": "Chopin",
+			"title": "Nocturne Op. 9 No. 2 in Eb Major",
+			"extra-info": "",
+			"performance-number": "7",
+			"file-name": "02.06.2026 - Chopin - Nocturne Op. 9 No. 2 in Eb Major - 7.mp3",
+			"midi-file-name": "02.06.2026 - Chopin - Nocturne Op. 9 No. 2 in Eb Major - 7.mid",
+			"duration": "300.43",
+			"sound-start": "0.37",
+			"total-performances": "7",
+			"ID": "364d0fd22852478a94997e9f3e5d0dbb"
+		},
+		{
 			"date": "01.06.2026",
 			"artist": "Chopin",
 			"title": "Nocturne Op. 72 No. 1 in E Minor",
@@ -582,7 +595,7 @@
 			"midi-file-name": "",
 			"duration": "313.20",
 			"sound-start": "1.09",
-			"total-performances": "6",
+			"total-performances": "7",
 			"ID": "3079606e84299f1212da1270d3963c88"
 		},
 		{
@@ -946,7 +959,7 @@
 			"midi-file-name": "",
 			"duration": "305.47",
 			"sound-start": "1.21",
-			"total-performances": "6",
+			"total-performances": "7",
 			"ID": "11cf0458b67c54cf0bdf698d887c3147"
 		},
 		{
@@ -1258,7 +1271,7 @@
 			"midi-file-name": "24.01.2025 - Chopin - Nocturne Op. 9 No. 2 in Eb Major - 4.mid",
 			"duration": "288.86",
 			"sound-start": "0.70",
-			"total-performances": "6",
+			"total-performances": "7",
 			"ID": "d42b5ee05e79fac718f3c5349ea76c45"
 		},
 		{
@@ -1336,7 +1349,7 @@
 			"midi-file-name": "",
 			"duration": "153.16",
 			"sound-start": "1.85",
-			"total-performances": "6",
+			"total-performances": "7",
 			"ID": "9187b1eb973f1f86778bf29ff58d946a"
 		},
 		{
@@ -1362,7 +1375,7 @@
 			"midi-file-name": "",
 			"duration": "42.84",
 			"sound-start": "2.26",
-			"total-performances": "6",
+			"total-performances": "7",
 			"ID": "32817d1e8588d477971a4d725bab3386"
 		},
 		{
@@ -1388,7 +1401,7 @@
 			"midi-file-name": "12.12.2024 - Chopin - Nocturne Op. 9 No. 2 in Eb Major - 1.mid",
 			"duration": "36.95",
 			"sound-start": "4.29",
-			"total-performances": "6",
+			"total-performances": "7",
 			"ID": "f00dac82d3a0a986f5f77777e462eabc"
 		},
 		{
