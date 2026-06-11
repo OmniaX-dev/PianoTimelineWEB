@@ -1,6 +1,19 @@
 {
 	"data": [
 		{
+			"date": "11.06.2026",
+			"artist": "Mr. Robot Soundtrack",
+			"title": "Basket Case Lullaby",
+			"extra-info": "",
+			"performance-number": "1",
+			"file-name": "11.06.2026 - Mr. Robot Soundtrack - Basket Case Lullaby - 1.mp3",
+			"midi-file-name": "11.06.2026 - Mr. Robot Soundtrack - Basket Case Lullaby - 1.mid",
+			"duration": "129.56",
+			"sound-start": "0.00",
+			"total-performances": "1",
+			"ID": "6ba17311a886f20b8403fe7527bcc10c"
+		},
+		{
 			"date": "04.06.2026",
 			"artist": "Chopin",
 			"title": "Nocturne Op. 72 No. 1 in E Minor",
