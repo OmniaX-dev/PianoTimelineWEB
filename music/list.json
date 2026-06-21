@@ -1,21 +1,7 @@
 {
-	"generated-at": "2026-06-21T06:06:22Z",
-	"revision": 4,
+	"generated-at": "2026-06-21T06:11:40Z",
+	"revision": 5,
 	"data": [
-		{
-			"date": "01.01.2200",
-			"artist": "Test",
-			"title": "TestTest",
-			"extra-info": "",
-			"performance-number": "1",
-			"file-name": "01.01.2200 - Test - TestTest - 1.mp3",
-			"midi-file-name": "",
-			"duration": "106.71",
-			"sound-start": "2.11",
-			"total-performances": "1",
-			"file-size": "1840402",
-			"ID": "ae5cb3972f2461e816e5caaa59459855"
-		},
 		{
 			"date": "11.06.2026",
 			"artist": "Mr. Robot Soundtrack",
