@@ -1,35 +1,7 @@
 {
-	"generated-at": "2026-06-21T11:21:38Z",
-	"revision": 14,
+	"generated-at": "2026-06-21T11:23:23Z",
+	"revision": 15,
 	"data": [
-		{
-			"date": "21.06.2026",
-			"artist": "Chopin",
-			"title": "Nocturne Op. 37 No. 1 in Gm",
-			"extra-info": "",
-			"performance-number": "3",
-			"file-name": "21.06.2026 - Chopin - Nocturne Op. 37 No. 1 in Gm - 3.mp3",
-			"midi-file-name": "21.06.2026 - Chopin - Nocturne Op. 37 No. 1 in Gm - 3.mid",
-			"duration": "70.10",
-			"sound-start": "0.74",
-			"total-performances": "4",
-			"file-size": "962500",
-			"ID": "dc8d7b29110e914189bedbf8563cdb0a"
-		},
-		{
-			"date": "21.06.2026",
-			"artist": "Chopin",
-			"title": "Nocturne Op. 37 No. 1 in Gm",
-			"extra-info": "",
-			"performance-number": "4",
-			"file-name": "21.06.2026 - Chopin - Nocturne Op. 37 No. 1 in Gm - 4.mp3",
-			"midi-file-name": "21.06.2026 - Chopin - Nocturne Op. 37 No. 1 in Gm - 4.mid",
-			"duration": "70.10",
-			"sound-start": "0.74",
-			"total-performances": "4",
-			"file-size": "962500",
-			"ID": "78e80052bb014b389f0e75036d2da711"
-		},
 		{
 			"date": "11.06.2026",
 			"artist": "Mr. Robot Soundtrack",
@@ -460,7 +432,7 @@
 			"midi-file-name": "28.01.2026 - Chopin - Nocturne Op. 37 No. 1 in Gm - 2.mid",
 			"duration": "215.24",
 			"sound-start": "0.88",
-			"total-performances": "4",
+			"total-performances": "2",
 			"file-size": "3222201",
 			"ID": "a2eca7c1fd8e09eb42bc3bbff20db41c"
 		},
@@ -474,7 +446,7 @@
 			"midi-file-name": "21.01.2026 - Chopin - Nocturne Op. 37 No. 1 in Gm - 1.mid",
 			"duration": "70.10",
 			"sound-start": "0.74",
-			"total-performances": "4",
+			"total-performances": "2",
 			"file-size": "962500",
 			"ID": "d90a48a49efcacbc1080fe8f28f9482e"
 		},
