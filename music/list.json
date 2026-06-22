@@ -1,7 +1,21 @@
 {
-	"generated-at": "2026-06-21T11:23:23Z",
-	"revision": 15,
+	"generated-at": "2026-06-22T12:01:41Z",
+	"revision": 16,
 	"data": [
+		{
+			"date": "22.06.2026",
+			"artist": "Sinatra",
+			"title": "Fly me to the moon",
+			"extra-info": "",
+			"performance-number": "2",
+			"file-name": "22.06.2026 - Sinatra - Fly me to the moon - 2.mp3",
+			"midi-file-name": "22.06.2026 - Sinatra - Fly me to the moon - 2.mid",
+			"duration": "256.24",
+			"sound-start": "0.01",
+			"total-performances": "2",
+			"file-size": "5215247",
+			"ID": "006bcf06f15b30ddd3e56137a9d1ff91"
+		},
 		{
 			"date": "11.06.2026",
 			"artist": "Mr. Robot Soundtrack",
@@ -1426,7 +1440,7 @@
 			"midi-file-name": "06.01.2025 - Sinatra - Fly me to the moon - 1.mid",
 			"duration": "502.03",
 			"sound-start": "0.00",
-			"total-performances": "1",
+			"total-performances": "2",
 			"file-size": "8306769",
 			"ID": "73ff782a1c14008dcca13840b83d8309"
 		},
