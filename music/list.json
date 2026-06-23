@@ -1,7 +1,21 @@
 {
-	"generated-at": "2026-06-23T08:40:59Z",
-	"revision": 22,
+	"generated-at": "2026-06-23T08:49:18Z",
+	"revision": 23,
 	"data": [
+		{
+			"date": "23.06.2026",
+			"artist": "Sinatra",
+			"title": "Fly me to the moon",
+			"extra-info": "",
+			"performance-number": "3",
+			"file-name": "23.06.2026 - Sinatra - Fly me to the moon - 3.mp3",
+			"midi-file-name": "23.06.2026 - Sinatra - Fly me to the moon - 3.mid",
+			"duration": "256.24",
+			"sound-start": "0.01",
+			"total-performances": "3",
+			"file-size": "5215247",
+			"ID": "0f3a89606764f9ac143d5e6edced1909"
+		},
 		{
 			"date": "22.06.2026",
 			"artist": "Sinatra",
@@ -12,7 +26,7 @@
 			"midi-file-name": "22.06.2026 - Sinatra - Fly me to the moon - 2.mid",
 			"duration": "256.24",
 			"sound-start": "0.01",
-			"total-performances": "2",
+			"total-performances": "3",
 			"file-size": "5215247",
 			"ID": "006bcf06f15b30ddd3e56137a9d1ff91"
 		},
@@ -1440,7 +1454,7 @@
 			"midi-file-name": "06.01.2025 - Sinatra - Fly me to the moon - 1.mid",
 			"duration": "502.03",
 			"sound-start": "0.00",
-			"total-performances": "2",
+			"total-performances": "3",
 			"file-size": "8306769",
 			"ID": "73ff782a1c14008dcca13840b83d8309"
 		},
