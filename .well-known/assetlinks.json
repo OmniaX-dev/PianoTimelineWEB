@@ -1,8 +1,13 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.keylightpiano.pianotimeline",
-    "sha256_cert_fingerprints": ["7A:00:28:4A:C2:BB:AF:5F:63:7D:14:B7:BC:5B:72:C5:5F:78:9D:6F:3A:14:B4:F8:50:B7:62:86:DF:00:F0:01"]
-  }
-}]
+[
+	{
+		"relation": ["delegate_permission/common.handle_all_urls"],
+		"target": {
+			"namespace": "android_app",
+			"package_name": "com.keylightpiano.pianotimeline",
+			"sha256_cert_fingerprints": [
+				"7A:00:28:4A:C2:BB:AF:5F:63:7D:14:B7:BC:5B:72:C5:5F:78:9D:6F:3A:14:B4:F8:50:B7:62:86:DF:00:F0:01",
+				"C0:02:09:DA:30:AE:F6:C5:85:F0:A6:81:34:88:4C:F2:E3:D8:CA:D8:8D:A4:19:A8:8A:32:ED:02:21:43:69:AF"
+			]
+		}
+	}
+]
