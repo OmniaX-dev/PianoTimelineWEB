@@ -1,7 +1,21 @@
 {
-	"generated-at": "2026-06-24T10:59:15Z",
-	"revision": 30,
+	"generated-at": "2026-06-24T23:41:05Z",
+	"revision": 31,
 	"data": [
+		{
+			"date": "25.06.2026",
+			"artist": "Chopin",
+			"title": "Etude Op. 10 No. 3 in E Major",
+			"extra-info": "",
+			"performance-number": "3",
+			"file-name": "25.06.2026 - Chopin - Etude Op. 10 No. 3 in E Major - 3.mp3",
+			"midi-file-name": "25.06.2026 - Chopin - Etude Op. 10 No. 3 in E Major - 3.mid",
+			"duration": "106.71",
+			"sound-start": "2.11",
+			"total-performances": "3",
+			"file-size": "1840402",
+			"ID": "ee65d274203b6f4bcf41fc0aa37a1a6a"
+		},
 		{
 			"date": "22.06.2026",
 			"artist": "Sinatra",
@@ -334,7 +348,7 @@
 			"midi-file-name": "01.03.2026 - Chopin - Etude Op. 10 No. 3 in E Major - 2.mid",
 			"duration": "106.71",
 			"sound-start": "2.11",
-			"total-performances": "2",
+			"total-performances": "3",
 			"file-size": "1840402",
 			"ID": "b0b676a3f8c6b4628c8b94b60fc1bdff"
 		},
@@ -348,7 +362,7 @@
 			"midi-file-name": "26.02.2026 - Chopin - Etude Op. 10 No. 3 in E Major - 1.mid",
 			"duration": "56.33",
 			"sound-start": "1.50",
-			"total-performances": "2",
+			"total-performances": "3",
 			"file-size": "740806",
 			"ID": "9551e602fd4f8ea7632532eeda605b3e"
 		},
