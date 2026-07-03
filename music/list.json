@@ -1,7 +1,21 @@
 {
-	"generated-at": "2026-07-02T17:37:48Z",
-	"revision": 34,
+	"generated-at": "2026-07-03T00:37:09Z",
+	"revision": 35,
 	"data": [
+		{
+			"date": "03.07.2026",
+			"artist": "Liszt",
+			"title": "Consolation No. 3 in Db major",
+			"extra-info": "",
+			"performance-number": "3",
+			"file-name": "03.07.2026 - Liszt - Consolation No. 3 in Db major - 3.mp3",
+			"midi-file-name": "03.07.2026 - Liszt - Consolation No. 3 in Db major - 3.mid",
+			"duration": "136.24",
+			"sound-start": "2.21",
+			"total-performances": "3",
+			"file-size": "2733505",
+			"ID": "e544e6aba9ef3d33e3c395224b643949"
+		},
 		{
 			"date": "22.06.2026",
 			"artist": "Sinatra",
@@ -964,7 +978,7 @@
 			"midi-file-name": "",
 			"duration": "94.00",
 			"sound-start": "0.28",
-			"total-performances": "2",
+			"total-performances": "3",
 			"file-size": "1332170",
 			"ID": "9742cfa991b25485c94a235b42380570"
 		},
@@ -992,7 +1006,7 @@
 			"midi-file-name": "",
 			"duration": "57.65",
 			"sound-start": "0.24",
-			"total-performances": "2",
+			"total-performances": "3",
 			"file-size": "796812",
 			"ID": "de1d4e0ba86ed4a1d8500dbccafb283d"
 		},
