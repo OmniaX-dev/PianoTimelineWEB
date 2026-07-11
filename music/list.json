@@ -1,7 +1,21 @@
 {
-	"generated-at": "2026-07-03T00:49:09Z",
-	"revision": 37,
+	"generated-at": "2026-07-11T14:34:58Z",
+	"revision": 38,
 	"data": [
+		{
+			"date": "11.07.2026",
+			"artist": "Howl’s Moving Castle Soundtrack",
+			"title": "Merry",
+			"extra-info": "Round Of Life 1.mp3 ",
+			"performance-number": "0",
+			"file-name": "11.07.2026 - Howl’s Moving Castle Soundtrack - Merry-Go-Round Of Life - 1.mp3",
+			"midi-file-name": "11.07.2026 - Howl’s Moving Castle Soundtrack - Merry-Go-Round Of Life - 1.mid",
+			"duration": "85.25",
+			"sound-start": "0.47",
+			"total-performances": "1",
+			"file-size": "1708137",
+			"ID": "5a86754fb58ede7036831a520f9bbb89"
+		},
 		{
 			"date": "03.07.2026",
 			"artist": "Liszt",
