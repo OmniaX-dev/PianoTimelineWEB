@@ -1,7 +1,21 @@
 {
-	"generated-at": "2026-08-15T17:48:53Z",
-	"revision": 44,
+	"generated-at": "2026-08-17T07:34:31Z",
+	"revision": 45,
 	"data": [
+		{
+			"date": "17.08.2026",
+			"artist": "Other",
+			"title": "White Christmas",
+			"extra-info": "",
+			"performance-number": "2",
+			"file-name": "17.08.2026 - Other - White Christmas - 2.mp3",
+			"midi-file-name": "17.08.2026 - Other - White Christmas - 2.mid",
+			"duration": "175.95",
+			"sound-start": "0.93",
+			"total-performances": "2",
+			"file-size": "3614547",
+			"ID": "8afa9ff174fedf565d6598c9587291c7"
+		},
 		{
 			"date": "15.08.2026",
 			"artist": "Other",
@@ -12,7 +26,7 @@
 			"midi-file-name": "15.08.2026 - Other - White Christmas - 1.mid",
 			"duration": "84.38",
 			"sound-start": "0.00",
-			"total-performances": "1",
+			"total-performances": "2",
 			"file-size": "1682678",
 			"ID": "dbdd3dce942a35d7a057e2b387847e64"
 		},
