@@ -3,6 +3,7 @@
 		{
 			"name": "Test Collection 1",
 			"date": "19.08.2026",
+			"cover": "test1.png",
 			"tracks": [
 				"263ca3cedcc1b78e428830bbd958fc03",
 				"8afa9ff174fedf565d6598c9587291c7"
@@ -12,6 +13,7 @@
 		{
 			"name": "Test Collection 2",
 			"date": "19.08.2026",
+			"cover": "test2.png",
 			"tracks": [
 				"5c5258b7c876f15e17106c2a1602882b",
 				"e81f44101b866f17c9bf631424cf6f0c",
