@@ -1,6 +1,6 @@
 {
-	"generated-at": "2026-08-19T15:30:46Z",
-	"revision": 57,
+	"generated-at": "2026-08-19T15:51:25Z",
+	"revision": 58,
 	"data": [
 		{
 			"date": "19.08.2026",
@@ -15,20 +15,6 @@
 			"total-performances": "2",
 			"file-size": "1367760",
 			"ID": "263ca3cedcc1b78e428830bbd958fc03"
-		},
-		{
-			"date": "19.08.2026",
-			"artist": "Testing",
-			"title": "Testing",
-			"extra-info": "",
-			"performance-number": "1",
-			"file-name": "19.08.2026 - Testing - Testing - 1.mp3",
-			"midi-file-name": "19.08.2026 - Testing - Testing - 1.mid",
-			"duration": "70.23",
-			"sound-start": "0.00",
-			"total-performances": "1",
-			"file-size": "1367760",
-			"ID": "bfb087d7e49d386bec0ba5dd5ce0e93b"
 		},
 		{
 			"date": "17.08.2026",
