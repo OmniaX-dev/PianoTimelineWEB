@@ -1,7 +1,21 @@
 {
-	"generated-at": "2026-08-19T15:51:25Z",
-	"revision": 58,
+	"generated-at": "2026-08-22T15:27:15Z",
+	"revision": 59,
 	"data": [
+		{
+			"date": "22.08.2026",
+			"artist": "Other",
+			"title": "Silent Night Jazz",
+			"extra-info": "",
+			"performance-number": "3",
+			"file-name": "22.08.2026 - Other - Silent Night Jazz - 3.mp3",
+			"midi-file-name": "22.08.2026 - Other - Silent Night Jazz - 3.mid",
+			"duration": "114.53",
+			"sound-start": "0.88",
+			"total-performances": "3",
+			"file-size": "2145303",
+			"ID": "85c3244229cae48371d5f7de2e81d720"
+		},
 		{
 			"date": "19.08.2026",
 			"artist": "Other",
@@ -12,7 +26,7 @@
 			"midi-file-name": "19.08.2026 - Other - Silent Night Jazz - 2.mid",
 			"duration": "70.23",
 			"sound-start": "0.00",
-			"total-performances": "2",
+			"total-performances": "3",
 			"file-size": "1367760",
 			"ID": "263ca3cedcc1b78e428830bbd958fc03"
 		},
@@ -40,7 +54,7 @@
 			"midi-file-name": "17.08.2026 - Other - Silent Night Jazz - 1.mid",
 			"duration": "55.21",
 			"sound-start": "0.00",
-			"total-performances": "2",
+			"total-performances": "3",
 			"file-size": "1055126",
 			"ID": "dab8fc1c3b06f17cc21cf99ddab7ed8d"
 		},
