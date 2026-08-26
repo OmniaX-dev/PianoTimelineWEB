@@ -1,7 +1,21 @@
 {
-	"generated-at": "2026-08-22T15:27:15Z",
-	"revision": 59,
+	"generated-at": "2026-08-26T20:43:32Z",
+	"revision": 60,
 	"data": [
+		{
+			"date": "26.08.2026",
+			"artist": "Other",
+			"title": "Santa Claus Is Comin' to Town Jazz",
+			"extra-info": "",
+			"performance-number": "1",
+			"file-name": "26.08.2026 - Other - Santa Claus Is Comin' to Town Jazz - 1.mp3",
+			"midi-file-name": "26.08.2026 - Other - Santa Claus Is Comin' to Town Jazz - 1.mid",
+			"duration": "41.30",
+			"sound-start": "0.97",
+			"total-performances": "1",
+			"file-size": "872636",
+			"ID": "2e1238bf8515b0f685848c18f6011576"
+		},
 		{
 			"date": "22.08.2026",
 			"artist": "Other",
