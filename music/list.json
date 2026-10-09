@@ -1,7 +1,21 @@
 {
-	"generated-at": "2026-09-30T00:05:24Z",
-	"revision": 63,
+	"generated-at": "2026-10-09T19:17:43Z",
+	"revision": 64,
 	"data": [
+		{
+			"date": "09.10.2026",
+			"artist": "Chopin",
+			"title": "Nocturne No. 20 in C#m",
+			"extra-info": "",
+			"performance-number": "7",
+			"file-name": "09.10.2026 - Chopin - Nocturne No. 20 in C#m - 7.mp3",
+			"midi-file-name": "09.10.2026 - Chopin - Nocturne No. 20 in C#m - 7.mid",
+			"duration": "156.97",
+			"sound-start": "1.03",
+			"total-performances": "7",
+			"file-size": "2897912",
+			"ID": "4469dd91ad3e263b51428992eb664015"
+		},
 		{
 			"date": "30.09.2026",
 			"artist": "Chopin",
@@ -530,7 +544,7 @@
 			"midi-file-name": "20.02.2026 - Chopin - Nocturne No. 20 in C#m - 6.mid",
 			"duration": "156.39",
 			"sound-start": "2.08",
-			"total-performances": "6",
+			"total-performances": "7",
 			"file-size": "2718749",
 			"ID": "58992ffc72423cf08ba3a360fc02684d"
 		},
@@ -964,7 +978,7 @@
 			"midi-file-name": "",
 			"duration": "281.12",
 			"sound-start": "0.42",
-			"total-performances": "6",
+			"total-performances": "7",
 			"file-size": "4101109",
 			"ID": "5cd6e92653b1c0f7668fbb4c8e041401"
 		},
@@ -1006,7 +1020,7 @@
 			"midi-file-name": "",
 			"duration": "156.87",
 			"sound-start": "3.38",
-			"total-performances": "6",
+			"total-performances": "7",
 			"file-size": "2794226",
 			"ID": "5d677f94a375842e14fec43a54ba1f5b"
 		},
@@ -1020,7 +1034,7 @@
 			"midi-file-name": "",
 			"duration": "146.12",
 			"sound-start": "1.67",
-			"total-performances": "6",
+			"total-performances": "7",
 			"file-size": "2082121",
 			"ID": "9a6fb1cf0bbce6e0e666ee3e7ba44fb8"
 		},
@@ -1034,7 +1048,7 @@
 			"midi-file-name": "",
 			"duration": "102.37",
 			"sound-start": "1.82",
-			"total-performances": "6",
+			"total-performances": "7",
 			"file-size": "1518205",
 			"ID": "812c53abaeeedf00103dce156bf357ae"
 		},
@@ -1636,7 +1650,7 @@
 			"midi-file-name": "02.01.2025 - Chopin - Nocturne No. 20 in C#m - 1.mid",
 			"duration": "56.75",
 			"sound-start": "2.86",
-			"total-performances": "6",
+			"total-performances": "7",
 			"file-size": "759051",
 			"ID": "eef77c2e566ac3688118a5b51ed9ca72"
 		},
